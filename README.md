@@ -29,8 +29,6 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 
 ![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
 
-![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmendomi&layout=compact)
@@ -38,5 +36,5 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 
 ## 📞 Contacto
 
-- **LinkedIn**: [https://www.linkedin.com/in/jorge-alberto-mu%C3%B1oz-eade-807216373/](https://www.linkedin.com/in/jorge-alberto-mu%C3%B1oz-eade-807216373/)
-- **Email**: [jorge.alberto82@gmail.com](mailto:jorge.alberto82@gmail.com)
+- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorge-alberto-mu%C3%B1oz-eade-807216373/)**
+- **[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:riquelme.n.domi@gmail.com)**
