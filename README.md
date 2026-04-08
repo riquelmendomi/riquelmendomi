@@ -17,4 +17,8 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 
 ## GitHub Stats
 
-![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true)
+![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## GitHub Contributions
+
+![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
