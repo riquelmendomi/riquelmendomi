@@ -7,7 +7,7 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 ## 🛠 Tecnologías y Herramientas
 
 ### Frontend
-![React]
+![React](https://img.shields.io/badge/React-black?style=flat&logo=react) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat&logo=css3)
