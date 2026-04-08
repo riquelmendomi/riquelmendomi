@@ -1,4 +1,4 @@
-## Hola! soy Dominique 👋
+# Hola! soy Dominique 👋
 
 Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño Gráfico y UX/UI**, apasionada por la creación de soluciones visualmente atractivas y funcionales. Tengo experiencia en el desarrollo de interfaces de usuario (UI/UX) y he trabajado con tecnologías como **JavaScript, Node.js, React**. Mi objetivo es seguir aprendiendo y mejorar la experiencia de usuario a través de aplicaciones eficientes y bien diseñadas.
 
@@ -24,19 +24,19 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel)
 
-## Estadísticas de GitHub
+### Estadísticas de GitHub
 
 ![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
 
-## GitHub Stats
+### GitHub Stats
 
 ![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## GitHub Contributions
+### GitHub Contributions
 
 ![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
 
-### Lenguajes más utilizados
+## Lenguajes más utilizados
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmendomi&layout=compact)
 
