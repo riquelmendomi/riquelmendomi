@@ -39,3 +39,8 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 ### Lenguajes más utilizados
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmendomi&layout=compact)
+
+
+![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
+
+![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
