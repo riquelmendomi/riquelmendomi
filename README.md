@@ -33,8 +33,7 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmendomi&layout=compact)
 
-
 ## 📞 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/nancydominiqueriquelme/)
-[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:riquelme.n.domi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nancydominiqueriquelme/)
+[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:riquelme.n.domi@gmail.com)
