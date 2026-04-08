@@ -14,3 +14,7 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5) 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+
+## GitHub Stats
+
+![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario_de_github&show_icons=true&hide_title=true)
