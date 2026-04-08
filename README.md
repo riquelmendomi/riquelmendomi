@@ -36,5 +36,5 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 
 ## 📞 Contacto
 
-- **[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorge-alberto-mu%C3%B1oz-eade-807216373/)**
-- **[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:riquelme.n.domi@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin)](https://www.linkedin.com/in/nancydominiqueriquelme/)
+[![Email](https://img.shields.io/badge/Email-black?style=flat&logo=gmail)](mailto:riquelme.n.domi@gmail.com)
