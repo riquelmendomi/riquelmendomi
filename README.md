@@ -15,6 +15,10 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5) 
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
 
+## Estadísticas de GitHub
+
+![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
+
 ## GitHub Stats
 
 ![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true&hide=prs)
@@ -23,24 +27,6 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 
 ![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
 
-## Estadísticas de GitHub
-
-![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
-
 ### Lenguajes más utilizados
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmendomi&layout=compact)
-
-
-## Estadísticas de GitHub
-
-![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
-
-### Lenguajes más utilizados
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riquelmendomi&layout=compact)
-
-
-![Dominique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&hide_title=true&count_private=true)
-
-![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
