@@ -20,7 +20,7 @@ Soy **Desarrolladora Full Stack JavaScript Trainee** con formación en **Diseño
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
 
 ## 📊 Estadísticas de GitHub
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riquelmendomi&show_icons=true&count_private=true&hide_title=true)
 
 ![Dominique's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=riquelmendomi&theme=radical)
